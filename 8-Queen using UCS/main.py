@@ -1,3 +1,8 @@
+/* @Atul Prakash
+ * 1801038
+ * CS231: Assignment 1:N-Queen using UCS
+*/
+
 from n_queens import NQueens
 
 
