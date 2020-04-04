@@ -1,3 +1,8 @@
+/* @Atul Prakash
+ * 1801038
+ * CS231: Assignment 4: Game of Sticks (AI vs Player)
+*/
+
 import java.util.*;
 
 public class Alpha_Beta
